@@ -1,2 +1,3 @@
 # portfolio-igorLopes
-Created with CodeSandbox
+
+link para o projeto: https://nrrox.csb.app/
